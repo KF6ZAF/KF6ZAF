@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Craig 
-- 👀 I’m interested in ... ACCESS database design and mobile Androoid use. 
+- 👀 I’m interested in ... ACCESS database design and mobile Android use. 
 - 🌱 I’m currently learning ... ACCESS programming: SQL, Visual Basic, Macro's.
 - 💞️ I’m working on ... building an ACCESS database program to run my business billing. 
 - 📫 How to reach me ... kf6zaf@gmail.com 
